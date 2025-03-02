@@ -1,4 +1,4 @@
-[![Python](https://img.shields.io/badge/Python-3.12.6-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/release/python-3126/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/release/python-3126/)
 [![Dify](https://img.shields.io/badge/Dify-AI-green?style=for-the-badge&logo=openaigym)](https://dify.ai/)
 
 
