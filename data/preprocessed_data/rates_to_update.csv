@@ -1,0 +1,40 @@
+﻿Lender Name,Product Name,Rate sheet / Link,Rate(%),BPS,LoantoValue,Max AMT.,Min Mortgage Amount,Max Mortgage Amount,Max Property Value,GDS,TDS,BeaconScore,Rate Hold Term,Rate Type,Provinces,Transaction Type,Purpose,Term Length,Term Type,Insurance,Programs,Product-Specific Details,Lender Fee (%),Position,,
+Meridian Credit Union,5 Year Fixed High Ratio Insured,https://drive.google.com/file/d/1gUnJLlmYnlD95j-UNjxHPXPDHAY_Xf_2/view?usp=drive_link,4.39%,120,80.01%-95%,25,,"924,999 ","999,999 ",39,44,600-900,90,Standard,ON,"Purchase, Transfer",Owner Occupied,5 Years,Fixed,Insured,"Construction, High Ratio Program, New to Canada,Pre-Approval Programs, Pre-Approval Programs With No Premium, Professionals, Purchase Plus Improvements, Rental Properties, Second Homes","Conventional High Ratio Purchase Criteria
+ - Principal Residences Only
+ - Purchase price below $1,000,000
+ - Mortgage request <$924,999K
+ - 25 year AM or less
+ - Max GDS of 39% and Max TDS of 44% using greater of BOC or Contract Rate +2% to qualify",0.00%,1st,,
+Meridian Credit Union,3 Year Fixed High Ratio Insured,https://drive.google.com/file/d/1gUnJLlmYnlD95j-UNjxHPXPDHAY_Xf_2/view?usp=drive_link,4.49%,70,80.01%-95%,25,,"924,999 ","999,999 ",39,44,600-900,90,Standard,ON,"Purchase, Transfer",Owner Occupied,3 Years,Fixed,Insured,"Construction, High Ratio Program, New to Canada,Pre-Approval Programs, Pre-Approval Programs With No Premium, Professionals, Purchase Plus Improvements, Rental Properties, Second Homes","Conventional High Ratio Purchase Criteria
+ - Principal Residences Only
+ - Purchase price below $1,000,000
+ - Mortgage request <$924,999K
+ - 25 year AM or less
+ - Max GDS of 39% and Max TDS of 44% using greater of BOC or Contract Rate +2% to qualify",0.00%,1st,,
+Meridian Credit Union,5 Year Fixed Conventional Insurable,https://drive.google.com/file/d/1gUnJLlmYnlD95j-UNjxHPXPDHAY_Xf_2/view?usp=drive_link,4.49%,110,1%-80%,25,,"799,999 ","999,999 ",39,44,600-900,90,Standard,ON,"Purchase, Transfer",Owner Occupied,5 Years,Fixed,Insurable,"Construction, New to Canada,Pre-Approval Programs, Pre-Approval Programs With No Premium, Professionals, Purchase Plus Improvements, Rental Properties, Second Homes","Conventional Insurable Purchase Criteria
+ - Principal Residences Only
+ - Purchase price below $1,000,000
+ - Mortgage request <$800K
+ - 25 year AM or less
+ - Max GDS of 39% and Max TDS of 44% using greater of BOC or Contract Rate +2% to qualify",0.00%,1st,,
+Meridian Credit Union,3 Year Fixed Conventional Insurable,https://drive.google.com/file/d/1gUnJLlmYnlD95j-UNjxHPXPDHAY_Xf_2/view?usp=drive_link,4.69%,70,1%-80%,25,,"799,999 ","999,999 ",39,44,600-900,90,Standard,ON,"Purchase, Transfer",Owner Occupied,3 Years,Fixed,Insurable,"Construction, New to Canada,Pre-Approval Programs, Pre-Approval Programs With No Premium, Professionals, Purchase Plus Improvements, Rental Properties, Second Homes","Conventional Insurable Purchase Criteria
+ - Principal Residences Only
+ - Purchase price below $1,000,000
+ - Mortgage request <$800K
+ - 25 year AM or less
+ - Max GDS of 39% and Max TDS of 44% using greater of BOC or Contract Rate +2% to qualify",0.00%,1st,,
+Meridian Credit Union,5 Year Fixed Conventional Uninsurable,https://drive.google.com/file/d/1gUnJLlmYnlD95j-UNjxHPXPDHAY_Xf_2/view?usp=drive_link,5.09%,85,1%-80%,30,,"799,999 ","999,999 ",39,44,600-900,90,Standard,ON,"Purchase, Refinance",Owner Occupied,5 Years,Fixed,Uninsurable,"Construction, New to Canada, Pre-Approval Programs, Pre-Approval Programs With No Premium, Professionals, Purchase Plus Improvements, Rental Properties, Second Homes","Conventional Insurable Purchase Criteria
+ - Principal Residences Only
+ - Purchase price below $1,000,000
+ - Mortgage request <$800K
+ - 25 year AM or less
+ - Max GDS of 39% and Max TDS of 44% using greater of BOC or Contract Rate +2% to qualify",0.00%,1st,,
+Meridian Credit Union,3 Year Fixed Conventional Uninsurable,https://drive.google.com/file/d/1gUnJLlmYnlD95j-UNjxHPXPDHAY_Xf_2/view?usp=drive_link,5.19%,60,1%-80%,30,,"799,999 ","999,999 ",39,44,600-900,90,Standard,ON,"Purchase, Refinance",Owner Occupied,3 Years,Fixed,Uninsurable,"Construction, New to Canada, Pre-Approval Programs, Pre-Approval Programs With No Premium, Professionals, Purchase Plus Improvements, Rental Properties, Second Homes","Conventional Insurable Purchase Criteria
+ - Principal Residences Only
+ - Purchase price below $1,000,000
+ - Mortgage request <$800K
+ - 25 year AM or less
+ - Max GDS of 39% and Max TDS of 44% using greater of BOC or Contract Rate +2% to qualify",0.00%,1st,,
+Meridian Credit Union,5 Year Fixed Refinance,https://drive.google.com/file/d/1gUnJLlmYnlD95j-UNjxHPXPDHAY_Xf_2/view?usp=drive_link,5.09%,80,1%-80%,30,,"799,999 ","999,999 ",39,44,600-900,90,Standard,ON,"Purchase, Transfer",Owner Occupied,5 Years,Fixed,Uninsurable,"Construction, High Ratio Program, Net Worth Program, New to Canada,Pre-Approval Programs, Pre-Approval Programs With No Premium, Professionals, Purchase Plus Improvements, Rental Properties, Second Homes","A rate increment may apply to uninsurable or refinance rates. Add 40 bps to each that apply from the following list:
+ - Non-owner occupied (rentals, cottages or second homes)
+ - Second position mortgages (please note maximum amortization for this product is 20 years)",0.00%,1st,,

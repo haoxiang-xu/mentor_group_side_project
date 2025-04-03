@@ -1,0 +1,5 @@
+Lender Name,Product Name,Rate sheet / Link,Rate (%),BPS,Loan to Value,Max AMT.,Min Mortgage Amount,Max Mortgage Amount,Max Property Value,GDS,TDS,Beacon Score,Rate Hold Term,Rate Type,Provinces,Transaction Type,Purpose,Term Length,Term Type,Insurance,Programs,Product-Specific Details,Lender Fee (%),Position
+Meridian Credit Union,5 Year Fixed High Ratio Insured,,4.64,120,80.01%-95%,25,,,$1,500,000,39,44,600-900,120,Standard,ON,Purchase,Owner Occupied,5 Years,Fixed,Insured,,0.00,1st
+Meridian Credit Union,3 Year Fixed High Ratio Insured,,4.69,70,80.01%-95%,25,,,$1,500,000,39,44,600-900,120,Standard,ON,Purchase,Owner Occupied,3 Years,Fixed,Insured,,0.00,1st
+Meridian Credit Union,1 Year Fixed Closed,,3.69,50,80.01%-95%,25,,,$1,500,000,39,44,600-900,120,Standard,ON,Purchase,Owner Occupied,1 Year,Fixed,Insurable,,0.00,1st
+Meridian Credit Union,2 Year Fixed Closed,,3.89,60,80.01%-95%,25,,,$1,500,000,39,44,600-900,120,Standard,ON,Purchase,Owner Occupied,2 Years,Fixed,Insurable,,0.00,1st

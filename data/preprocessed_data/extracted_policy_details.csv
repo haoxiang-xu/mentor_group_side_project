@@ -1,0 +1,61 @@
+0
+"{
+    ""POLICY NAME"": ""FORMS"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+     															"
+"{
+    ""POLICY NAME"": ""Consent To Release Client Information"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers.""
+}
+	    			 											"
+"{
+    ""POLICY NAME"": ""Digital Signing"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The policy explicitly mentions the need for digital signing and references DocuSign as an accepted method.""
+}
+"
+"{
+    ""POLICY NAME"": ""DocuSign"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian uses DocuSign for electronic signatures in various forms including consent to release information.""
+}
+  						 											"
+"{
+  ""POLICY NAME"": ""Gift Letter"",
+  ""Y/N/M"": ""Y"",
+  ""POLICY DETAILS"": ""The Gift Letter must be provided by the client and submitted with the application.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Payout Authorization Form"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers.""
+}
+"
+"{
+    ""POLICY NAME"": ""Penalty Calculator"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The penalty calculation is based on the Floor/Posted rate for the existing mortgage and the Posted rate at the time of the payout for the years left to maturity.""
+}
+  							  									"
+"{
+    ""POLICY NAME"": ""Pre-Authorized Debit Agreement"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows preauthorized debits for account holders, typically related to mortgage prepayments.""
+}
+"
+"{
+    ""POLICY NAME"": ""Tax Application Form"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The tax application form must be completed and submitted by the borrower, including current property tax information and any applicable exemptions.""
+}
+  			           			"
+"{
+    ""POLICY NAME"": ""NICHES"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""...""
+}
+"
