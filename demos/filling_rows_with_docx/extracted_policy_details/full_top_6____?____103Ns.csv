@@ -1,0 +1,1475 @@
+0
+"{
+    ""POLICY NAME"": ""BFS (CMHC Program)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""CMHC's First Nations, Inuit and Métis Housing Initiative provides funding for first-time homebuyers in these communities.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""BFS ALT-A"",
+    ""Y/N/M"": ""M"",
+    ""POLICY DETAILS"": ""The policy is referenced in the underwriting guidelines, but forms are provided by third-party vendors.""
+}
+ "
+"{
+    ""POLICY NAME"": ""BFS Stated Income (Bank Statements)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian reviews and uses bank statements as part of income verification.""
+} "
+"{
+    ""POLICY NAME"": ""BFS Stated Income (Conventional)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian uses BFS for state income, but does not specify conventional versus other types.""
+}
+									"
+"{
+    ""POLICY NAME"": ""BFS Stated Income (Sagen & CG Program)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian accepts Sage 50 and QuickBooks files for tax returns.""
+}
+    "
+"{
+    ""POLICY NAME"": ""Cash Back Mortgages"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    																"
+"{
+    ""POLICY NAME"": ""Collateral Switch/Transfer"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian does not offer credit card switching or transfer services.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Construction"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not found in the provided documents.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Cottage/Recreational Properties"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian explicitly prohibits the use of cottages and recreational properties in most cases, unless approved.""
+}
+"
+"{
+    ""POLICY NAME"": ""Equity Program"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of an Equit program in the document.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Flex Down Payments (ie; Credit Cards)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of this policy in provided text.""
+}
+"
+"{
+    ""POLICY NAME"": ""Foreign Borrowers (Non-Residents)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian accepts foreign borrowers subject to additional documentation requirements.""
+}
+  						 											"
+"{
+    ""POLICY NAME"": ""Limited Feature Mortgages"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Medical Professionals Program"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of this program in the document.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Mortgage & HELOC Combinations"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  	 																"
+"{
+    ""POLICY NAME"": ""Net Worth Program"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    																"
+"{
+    ""POLICY NAME"": ""New to Canada"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian provides support and information for new immigrants and expatriates moving to Canada.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""New to Canada (Rental)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian offers a New to Canada (Rental) program for foreign nationals purchasing property in Canada. This policy is explicitly stated in their product guidelines.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""No-fee Alt Lender"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+  ""POLICY NAME"": ""Non-Permanent/Temporary Residents"",
+  ""Y/N/M"": ""Y"",
+  ""POLICY DETAILS"": ""No, the policy mentions that residents must be non-permanent or temporary with proper documentation.""
+}
+"
+"{
+    ""POLICY NAME"": ""Open Mortgages"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  	 																"
+"{
+    ""POLICY NAME"": ""Pre-Approval Programs"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+     		       						"
+"{
+    ""POLICY NAME"": ""Pre-Approval Programs With No Premium"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Includes no premium fee required for participation.""
+}
+    "
+"{
+    ""POLICY NAME"": ""Professionals"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian will consider professionals as self-employed and may require additional documentation such as a professional designation or proof of business operations.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Purchase Plus Improvements"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+   "
+"{
+    ""POLICY NAME"": ""Purchase Plus Improvements Uninsurable"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Raw/Vacant Land Financing"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires Raw/Vacant land financing policies to be in place, specifically requiring 80% LTV and 20% down payment.""
+}
+    				   			"
+"{
+    ""POLICY NAME"": ""Refinance"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Refinance on Rentals"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+     															"
+"{
+    ""POLICY NAME"": ""Rental Properties"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian's rental property policy restricts the number of properties a client can own or rent to.""
+}"
+"{
+    ""POLICY NAME"": ""Reverse Mortgages"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian does not offer reverse mortgages but may refer clients to third-party providers.""
+}
+"
+"{
+    ""POLICY NAME"": ""Second Homes"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian's second home lending policies are outlined in the eligibility criteria and require a secondary income source.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Spousal/Partner Buyout"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of a spouse or partner buyout policy in the provided text.""
+}
+"
+"{
+    ""POLICY NAME"": ""Standard Conventional Insurable Program"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not specifically mentioned in the provided text.""
+}
+     															"
+"{
+    ""POLICY NAME"": ""Switch/Transfer"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The policy states that for the transfer of a property, certain conditions must be met by both the existing lender and the new lender.""
+}
+    	"
+"{
+    ""POLICY NAME"": ""APPRAISAL, LEGAL AND TAXES"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires that legal and tax appraisal reports be completed prior to submission for underwriting review.""
+}
+"
+"{
+    ""POLICY NAME"": ""Appraisal Details"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian outlines appraisal requirements in their guidelines, including a detailed report and specific formats.""
+}
+"
+"{
+    ""POLICY NAME"": ""Appraisal Rebates"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian offers appraisal rebates for all approved applicants, up to $1,000.""
+}
+"
+"{
+    ""POLICY NAME"": ""Approved Appraisers List"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The policy requires the use of appraisers from a pre-approved list.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Approved Lawyers"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires approved lawyers for certain transactions, but does not specify the process for obtaining approval.""
+} "
+"{
+    ""POLICY NAME"": ""APV or AVM"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Dual Representation by Lawyer"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Lawyers must act in the client's best interest and may not represent both buyer and seller if it creates a conflict of interest.""
+}
+  	"
+"{
+    ""POLICY NAME"": ""Legal Rebates"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  			   												"
+"{
+    ""POLICY NAME"": ""Lender Collects and Pays Property Taxes"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Yes, it's stated in the policy that the lender is responsible for collecting and paying property taxes.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Loan on Appraised Value"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian's policy requires that the loan amount be based on the appraised value of the property, which is determined by a professional appraiser.""
+}
+"
+"{
+    ""POLICY NAME"": ""Loan on Purchase Price"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""FirstOntario requires that the purchase price is detailed in loan applications.""
+}
+"
+"{
+    ""POLICY NAME"": ""Max Capitalization & What Lender Pays For (Switch/Transfer)"",
+    ""Y/N/M"": ""M"",
+    ""POLICY DETAILS"": ""This policy is often mentioned in procedures related to capitalization and transfer limits, but not explicitly stated in the provided documents.""
+}
+  										 							"
+"{
+    ""POLICY NAME"": ""Power of Attorney"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of Power of Attorney found in the document.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Title Insurance Details"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Includes details of title insurance coverage.""
+}
+"
+"{
+    ""POLICY NAME"": ""Title Vesting Period"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The title vesting period is specified in the loan agreement.""
+}
+"
+"{
+    ""POLICY NAME"": ""Will Pay Out: Personal, CRA or HST Tax Arrears"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""It is clearly stated that Meridian will pay out taxes for personal tax arrears. However, it is not specified whether this applies to CRA or HST.""
+}
+  							  									"
+"{
+    ""POLICY NAME"": ""Will Pay Out: Property Tax Arrears"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The lender will pay out property tax arrears directly to the vendor at closing.""
+}
+    			   										"
+"{
+    ""POLICY NAME"": ""COMMISSIONS"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""A commission fee is applied to all transactions, typically 1% for Mortgages.""
+}
+																	"
+"{
+  ""POLICY NAME"": ""Finders Fees"",
+  ""Y/N/M"": ""Y"",
+  ""POLICY DETAILS"": ""No finders fees are charged by the company; this is explicitly stated in the guidelines.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Renewal Pay"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian will auto-renew eligible loans after a specific period unless the customer chooses to renew early or cancel.""
+}
+"
+"{
+    ""POLICY NAME"": ""Trailer Fees"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""There are no trailer fees for Meridian products.""
+}
+ 					           			"
+"{
+    ""POLICY NAME"": ""Volume Bonus"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""CREDIT REQUIREMENTS"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Applicants must provide credit history for all applicants.""
+}
+     "
+"{
+    ""POLICY NAME"": ""Age of Credit Bureau (Days)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not explicitly mentioned.""
+}
+  			   												"
+"{
+    ""POLICY NAME"": ""Bankruptcy Purchase"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian offers bankruptcy purchase options, allowing borrowers to purchase property despite prior bankruptcies. This is explicitly stated in their guidelines.""
+}
+"
+"{
+    ""POLICY NAME"": ""Bankruptcy Refinace"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of bankruptcy refinement in the document.""
+}
+"
+"{
+    ""POLICY NAME"": ""Beacon <680 Max GDS/TDS"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Beacon >680 Max GDS/TDS"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Beacon provides a GDS (General Data Security) and TDS (Transaction Data Security) policy for its systems and platforms.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Consumer Proposals "",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of consumer proposals in the provided policies.""
+}
+  	 																"
+"{
+    ""POLICY NAME"": ""Credit Scores Based on Applicant Details"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian considers credit scores when evaluating applicants for loans.""
+}
+"
+"{
+    ""POLICY NAME"": ""Double Bankruptcy"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No information provided.""
+}
+  							 										"
+"{
+    ""POLICY NAME"": ""GDS/TDS Exceptions"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of GDS/TDS exceptions in the provided text.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""GDS/TDS for 2nd Mortgage"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of GDS/TDS for second mortgage.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""GDS/TDS for LOC"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian provides GDS/TDS forms to brokers upon request.""
+}
+									 										"
+"{
+    ""POLICY NAME"": ""Minimum Beacon Requirements"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Equifax Bureaus"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian uses external credit agencies to check the credit history of applicants.""
+}
+  					   					   		"
+"{
+    ""POLICY NAME"": ""Transunion Bureaus"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Treasurer's Office processes the submissions.""
+} "
+"{
+    ""POLICY NAME"": ""QUALIFYING & FEES"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+						 													"
+"{
+    ""POLICY NAME"": ""Insurable/Insured Deals Only"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Only deals that can be insured are considered.""
+}
+  	"
+"{
+    ""POLICY NAME"": ""Insurers (Canada Guarantee)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Insurers (CMHC)"" ,
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The CMHC requires the completion of specific forms including the Insurer's Form for each property application.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Insurers (Sagen)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of insurers named Sageen found.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Lending Fee"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""A $295 application fee is required for all new applications.""
+}
+  		       									"
+"{
+    ""POLICY NAME"": ""Maintenance Fee"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The maintenance fee is clearly mentioned in the documents provided by the lender, with details on how it's calculated and applied.""
+}
+  			   												"
+"{
+    ""POLICY NAME"": ""Qualify at Contract Rate"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian offers qualifying rates for certain loan programs, with specific terms and conditions.""
+}
+    			 												"
+"{
+    ""POLICY NAME"": ""Qualifying Rate for Conventional Deals"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian sets a qualifying rate for their conventional deals and notifies brokers when this rate changes.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Renewal Fees and Details"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""There are no specific policies mentioned regarding renewal fees in the provided text.""
+}
+    "
+"{
+    ""POLICY NAME"": ""DOWN PAYMENT "",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The client must provide a written gift letter confirming the down payment source.""
+}
+ 	"
+"{
+    ""POLICY NAME"": ""Gifted Down Payment Aunt/Uncle"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows for gifted down payments from relatives, but requires documentation of the gift.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Gifted From Immediately Family Member"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""BC requires a gift letter from all applicants if funds are received as a gift from an immediately family member.""
+}
+    	"
+"{
+    ""POLICY NAME"": ""Gifted From Immediately Family Member (Rental)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian explicitly states that gifts from immediate family members are allowed without additional documentation, provided they are considered equity, not cash.""
+}
+"
+"{
+    ""POLICY NAME"": ""Gifted Money From Non-Family"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian accepts gifted funds from non-family members as part of the down payment, but requires a letter explaining the source and relationship to the applicant.""
+}
+ "
+"{
+    ""POLICY NAME"": ""Government Grants"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of government grants in policy details.""
+}
+      														"
+"{
+  ""POLICY NAME"": ""How Much of the Down Payment Can Be Gifted? (100% or % From Own Funds)"",
+  ""Y/N/M"": ""N"",
+  ""POLICY DETAILS"": ""None found.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Rent to Own Agreements"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""RRSP Withdrawals"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Withdrawals from RSPs are subject to a 30-day notice period, as outlined in the terms of the account agreement.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Vendor Take Back Mortgages"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""No specific mention of Vendor Take Back Mortgages in the provided text.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""BUSINESS FOR SELF INCOME"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian does not explicitly mention business for self-income.""
+}
+										 									"
+"{
+    ""POLICY NAME"": ""Add Backs (CCA and Business Use of Home)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention.""
+}
+   																	"
+"{
+  ""POLICY NAME"": ""Business for Self (Self-Employed) Confirmed"",
+  ""Y/N/M"": ""N"",
+  ""POLICY DETAILS"": """"
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Line 150 2 Year Average for BFS"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    																"
+"{
+    ""POLICY NAME"": ""Line 150 Gross-up Income BFS"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Minimum Time in Business (BFS)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    				  										"
+"{
+    ""POLICY NAME"": ""Self Declared Income"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of Self Declared Income policy found.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Vehicle Allowance"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No information found.""
+}
+ 	"
+"{
+    ""POLICY NAME"": ""INCOME"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Meridian does not have a specific income policy listed, so unless stated in the application or supporting documents, there are no restrictions.""
+}
+  	 																"
+"{
+    ""POLICY NAME"": ""Add Percent of Rents to Gross Income "",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of percent of rents.""
+}
+"
+"{
+    ""POLICY NAME"": ""Alimony/Child Support (Income)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian provides support for alimony and child support income.""
+}
+"
+"{
+    ""POLICY NAME"": ""Assets as income "",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""RBC requires all applicants to provide detailed information about their assets, including income sources. The policy is explicit in asking for this.""
+}
+"
+"{
+    ""POLICY NAME"": ""Assured Income for the Severely Handicapped (AISH)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+									"
+"{
+    ""POLICY NAME"": ""Bonus / Overtime"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Canada Child Benefit (CCB)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of child benefits policy.""
+}
+"
+"{
+    ""POLICY NAME"": ""CCB Age Requirements"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    			   			    			"
+"{
+    ""POLICY NAME"": ""CCB How Much Can We Use? (% of Total Income)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    "
+"{
+    ""POLICY NAME"": ""Co-signer Has to be Related"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Co-signer Required to be on Title"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The property must be co-signed by a co-signer in order for the transaction to proceed.""
+}
+  		   													"
+"{
+    ""POLICY NAME"": ""Co-signer to Live in the Property"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""This policy may require a co-signer to live in the property, but details vary based on specific circumstances.""
+}
+  													"
+"{
+    ""POLICY NAME"": ""Co-signers Allowed"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of co-signers being allowed or prohibited.""
+}
+  					  									"
+"{
+    ""POLICY NAME"": ""Commissioned Income"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The policy allows for commissioned income as part of the borrower's total income.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Contract Income"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Contributory Income"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian accepts applications where the applicant has additional income that may be declared as part of their application.""
+}
+  				   											"
+"{
+    ""POLICY NAME"": ""Do You Accept People on Probation"",
+    ""Y/N/M"": ""M"",
+    ""POLICY DETAILS"": ""The policy is implied as a condition for approval, though not explicitly stated.""
+}
+  	"
+"{
+    ""POLICY NAME"": ""Employment Insurance"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of employment insurance coverage or requirements.""
+}
+"
+"{
+    ""POLICY NAME"": ""Foster Care / Care Aide income"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian accepts Foster Care / Care Aide income as part of the household income, provided it is reported and verified.""
+}
+    						   							"
+"{
+    ""POLICY NAME"": ""Guarantor Has to be Related"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Applicants must provide proof of identification, such as a driver's license or passport, to be related.""
+}
+									 										"
+"{
+    ""POLICY NAME"": ""Guarantors Allowed"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of guarantors being allowed or permitted in the provided text.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Guarantors Required to be on Title"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Lending requires a Guarantor to be on the property title as per lending policies.""
+}
+    											  			"
+"{
+    ""POLICY NAME"": ""Guarantors to Live in the Property"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian does not allow co-signers or guarantors for properties.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Hourly""
+    ,
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not explicitly mentioned.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Investment Income / RRIF"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Investment income and RRIF are considered in financial assessments.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Long Term Disability"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian offers long-term disability coverage to customers.""
+}
+    "
+"{
+    ""POLICY NAME"": ""Maximum Number of Applicants"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""The policy does not explicitly mention limiting the number of applicants.""
+}
+    				  						  	 "
+"{
+    ""POLICY NAME"": ""Non-Taxable/Tips"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""OAS - CPP - RPP (Pension Income)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of consent to release client information.""
+}"
+"{
+    ""POLICY NAME"": ""On-Indian Reserve (Income)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Meridian does not mention any specific policy regarding On-Indian Reserve Income.""
+}
+"
+"{
+    ""POLICY NAME"": ""Ontario Disability Support Program Income"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Parental/Maternity Leave"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Employees are entitled to parental leave as specified by law and company policy.""
+}
+  						  										"
+"{
+    ""POLICY NAME"": ""Reduce Rental Expenses and Add to Gross Income"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Some lenders do not require additional income documentation, but Meridian requires it.""
+}
+"
+"{
+    ""POLICY NAME"": ""Rental (Income): Non-Subject Property"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not found in the provided policies.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Rental (Income): Owner-Occupied + Separate Unit"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The property must be owner-occupied and have a separate unit for the tenant. Not all brokers may handle this, so need to confirm with underwriter.""
+}
+          										"
+"{
+    ""POLICY NAME"": ""Rental (Income): Subject Property"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Landlords must ensure the subject property meets local rental requirements, including income restrictions.""
+}
+		 																	"
+"{
+    ""POLICY NAME"": ""Rental (Income): Worksheet"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+																			"
+"{
+    ""POLICY NAME"": ""Rental Income at Market Rents"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian may accept applications with rental income that equals or exceeds market rent.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Rental Pools"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows up to 3 rental units on a primary residence property.""
+}
+																			"
+"{
+    ""POLICY NAME"": ""Rental Surplus/Shortfall Calculation"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian calculates surplus/shortfall based on market analysis but does not provide forms.""
+}
+"
+"{
+    ""POLICY NAME"": ""Short Term Disability"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian provides short term disability coverage for all employees.""
+}
+    													"
+"{
+    ""POLICY NAME"": ""Taxable Other"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not directly mentioned.""
+}
+"
+"{
+    ""POLICY NAME"": ""Trust (Income)"", ""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""...""}
+    						   							"
+"{
+    ""POLICY NAME"": ""WSIB (Income)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Ontario-based companies subject to WSIB coverage as per industry standards.""
+} "
+"{
+    ""POLICY NAME"": ""EXPENSE PAYMENT CALCULATIONS"",
+    ""Y/N/M"": ""M"",
+    ""POLICY DETAILS"": ""...(Indirectly mentioned in procedures but not explicitly detailed)""
+}"
+"{
+    ""POLICY NAME"": ""Alimony (Expense)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Not explicitly mentioned, but usually applied for calculating expense coverage.""
+}
+                  "
+"{
+    ""POLICY NAME"": ""Calculate Debt Payments as Stated on Credit Bureau"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian's policy is to calculate debt payments as stated on the credit bureau, and this is a critical part of the application process.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Calculate Debt Payments at BoC Rate Over 25 Years"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""This policy requires borrowers to use the Bank of Canada's fixed rate for calculating debt payments over a 25-year period.""
+}
+    						 									"
+"{
+    ""POLICY NAME"": ""Calculate Debt Payments at the Total Limit"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No specific policy found for calculating debt payments at the total limit.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Calculate Debt Payments on Unsecured Loans"",
+    ""Y/N/M"": ""M"",
+    ""POLICY DETAILS"": ""When calculating the payment amount, some lenders might consider unsecured loans as part of the total debt load.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Child Support (Expense) deducted from Income"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Closing Costs Calculation"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of closing costs in the provided policy list.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Condo Fee Calculation"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""Heat Calculation"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""OSAP (3% or Payment on Credit Bureau)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of OSAP or credit bureau payment policies.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Property Tax Calculation"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of property tax calculation or related policies in the document.""
+}
+    "
+"{
+    ""POLICY NAME"": ""Secured Revolving Debt Payments (HELOC)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    																"
+"{
+    ""POLICY NAME"": ""Shelter Costs"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of shelter costs or related policies found in the provided documents.""
+}
+ 	"
+"{
+  ""POLICY NAME"": ""Student Loans (Expense)"",
+  ""Y/N/M"": ""Y"",
+  ""POLICY DETAILS"": ""There is no mention of student loans as an expense in the provided policies.""
+}
+"
+"{
+    ""POLICY NAME"": ""Student LOC (3% or Payment on Credit Bureau)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  																		"
+"{
+    ""POLICY NAME"": ""MORTGAGE INFORMATION"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""All applicants must provide their personal information to the lender for processing.""
+}
+        					"
+"{
+    ""POLICY NAME"": ""2nd Mortgage Allowed Behind You"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of second mortgages in this document.""
+}
+"
+"{
+    ""POLICY NAME"": ""2nd Mortgages (Lender Arranged)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of policy related to second mortgages.""
+}"
+"{
+    ""POLICY NAME"": ""2nd Position HELOCs"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+"
+"{
+    ""POLICY NAME"": ""3rd Mortgage Allowed Behind You"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows 3rd mortgage applications from borrowers who own other properties.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Assignments"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+																			"
+"{
+    ""POLICY NAME"": ""Assumable"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    																"
+"{
+    ""POLICY NAME"": ""Blend and Extend"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""All properties must have the Blend and Extend feature to qualify for financing.""
+}
+    				   									"
+"{
+    ""POLICY NAME"": ""Bridge Financing"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of bridge financing policy.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Change Payment Arrangement"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows preauthorized debits, but this must be handled through a separate form.""
+}
+ 	"
+"{
+    ""POLICY NAME"": ""Credit Lines/HELOCs"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of lines of credit or HELOCs.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Free Home Warranty"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No specific mention of a free home warranty policy.""
+}
+"
+"{
+    ""POLICY NAME"": ""Holding Companies"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    "
+"{
+    ""POLICY NAME"": ""Compounded Period for Variable ""
+    , ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    																"
+"{
+    ""POLICY NAME"": ""Insured Switch/Transfer"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""During underwriting, if an applicant requests a switch or transfer of their policy, this requires approval from the underwriting team and may involve additional documentation.""
+}
+    			 			"
+"{
+    ""POLICY NAME"": ""Max Rate Holds (Days)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Maximum number of days a rate can hold without being renewed or canceled.""
+}
+"
+"{
+    ""POLICY NAME"": ""Maximum Amortization (25 years)"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of maximum amortization or related policy in the document.""
+}
+    					  			 					"
+"{
+    ""POLICY NAME"": ""Maximum Amortization (30 years)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian offers up to a 30-year amortization period for qualifying applicants.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Maximum Amortization (35 years)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Maximum amortization period is set at 35 years for all qualifying properties.""
+}
+					 							      	"
+"{
+    ""POLICY NAME"": ""Maximum Amortization (40 years)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""A maximum amortization period of 40 years is allowed for government-assisted or insured mortgages in Ontario.""
+}
+"
+"{
+    ""POLICY NAME"": ""Maximum Equity Take-Out ($) "",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Maximum equity take-out is determined based on property value and market conditions.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Maximum Loan to Value 1st Mortgage"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Maximum loan-to-value ratio of up to 85% for first mortgages.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Maximum Loan to Value 2nd or 3rd Mortgages"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Maximum loan-to-value ratio for second or third mortgages is 85% for all provinces.""
+}
+  						  										"
+"{
+    ""POLICY NAME"": ""Maximum Mortgage Amount"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not explicitly found in the provided text.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Minimum Mortgage Amount"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No specific policy mentioned.""
+}
+    		   											"
+"{
+    ""POLICY NAME"": ""Mininimum Amortization (years)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""A maximum of 10 years amortization is allowed for conforming loans.""
+}
+  					  								 		"
+"{
+    ""POLICY NAME"": ""Mortgage Registration Type"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not directly mentioned in the provided text.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Mortgage Reports to Credit Bureau"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The policy states that Meridian will report mortgage applications to the credit burea...""}
+    			   										"
+"{
+    ""POLICY NAME"": ""New Home Rate Hold Guarantee"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of any such guarantee.""
+}
+    					  									"
+"{
+    ""POLICY NAME"": ""Payment Frequency Options"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of payment frequency options.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""Penalty Calculations for Breaking Mortgage"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian calculates the break cost when a mortgage is broken early, with details provided via their online calculator.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Portable""
+    ,
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+    "
+"{
+    ""POLICY NAME"": ""Prepayment Options"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows customers to prepay their mortgage, subject to terms and conditions.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Private Purchases"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows private purchases of properties through specific programs, but requires proper documentation for all transactions.""
+}
+"
+"{
+  ""POLICY NAME"": ""Rate Buy-Down Information"",
+  ""Y/N/M"": ""Y"",
+  ""POLICY DETAILS"": ""Rushmere provides rate buy-down information to brokers for their submissions.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Rate Drop Policy"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  				  												"
+"{
+    ""POLICY NAME"": ""Skip a Payment"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of skipping a payment.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Sliding Scale"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian uses sliding scale methods for income evaluation.""
+}
+"
+"{
+    ""POLICY NAME"": ""Unsecured Line of Credit"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Value Added Products"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of Value Added Products in policies.""
+}
+    "
+"{
+    ""POLICY NAME"": ""Variable-Rate to Fixed-Rate Conversion"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of this policy.""
+}
+    									"
+"{
+    ""POLICY NAME"": ""VRM and/or ARMs"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The policy requires all properties to be listed and sold in the Virtual Relocation Market or Alternate Relocation Market as applicable.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""What Rate Are Penalties Calculated At"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of penalty calculation rate.""
+}
+"
+"{
+    ""POLICY NAME"": ""PROPERTY"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian’s lending policies require certain property characteristics, such as maximum acreage and number of units.""
+} "
+"{
+    ""POLICY NAME"": ""Agricultural/Agricultural Zoning"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Lending areas include regions designated as agricultural zones.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""AirBnB/Short Term Rental Properties"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian will not consider properties used for short-term rentals unless they are owner-occupied or managed by the property manager.""
+}
+    "
+"{
+    ""POLICY NAME"": ""Commercial  "",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": """"
+}
+					 					 				 			"
+"{
+    ""POLICY NAME"": ""Compostable Toilets"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""None explicitly mentioned.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Farms"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian explicitly allows farms as collateral for lending purposes.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Grow Ops"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Underwriting policies are subject to change and should be checked before applying.""
+}
+																		"
+"{
+  ""POLICY NAME"": ""Heritage Buildings"",
+  ""Y/N/M"": ""M"",
+  ""POLICY DETAILS"": ""Meridian may have policies related to heritage buildings, but no explicit mention was found.""
+}
+      														"
+"{
+    ""POLICY NAME"": ""Hobby Farms"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian allows financing for hobby farms with specific conditions.""
+}
+    																"
+"{
+  ""POLICY NAME"": ""Hotel Condos"",
+  ""Y/N/M"": ""Y"",
+  ""POLICY DETAILS"": ""Meridian has specific requirements for hotel condos, including size and location criteria.""
+}
+"
+"{
+    ""POLICY NAME"": ""Island Properties"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Properties located on islands require boat access.""
+}
+					 									  	 	"
+"{
+    ""POLICY NAME"": ""Laneway Housing"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian explicitly allows laneway housing as per their policy document, which permits secondary suites in a detached structure on the property.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Leased Land"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires a legal survey of the property for leased land transactions.""
+}
+		"
+"{
+    ""POLICY NAME"": ""Lending Areas"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian only lends within specific regions, including Ontario and certain other provinces.""
+}
+  				  												"
+"{
+    ""POLICY NAME"": ""Maximum Acreage"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Maximum acres financed varies by region, but in Ontario it's up to 10 acres.""
+}
+"
+"{
+    ""POLICY NAME"": ""Maximum Number of Doors"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian explicitly limits the number of units per property to ensure proper evaluation.""
+}
+ 			 	          				"
+"{
+    ""POLICY NAME"": ""Maximum Number of Properties"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian restricts the number of properties a client can have to ensure manageable risk.""
+}
+    "
+"{
+    ""POLICY NAME"": ""Minimum Population Requirement"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian mandates that the property must be in a population area of at least 50,000 people to qualify for certain loans.""
+}
+"
+"{
+    ""POLICY NAME"": ""Minimum Square Footage (Condo)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires a minimum square footage of 550 sq ft for condos.""
+}
+"
+"{
+    ""POLICY NAME"": ""Minimum Square Footage (House)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian specifies a minimum square footage requirement for houses, typically 550 sq ft or more.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Mixed Use (Commercial/Residential)"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Mixed-use properties that have both commercial and residential spaces are allowed as long as the primary use is considered, such as a live-work building.""
+}
+"
+"{
+    ""POLICY NAME"": ""Mobile Homes/Modular Homes"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian explicitly prohibits mobile homes and modular homes as they are considered non-conforming for primary residential purposes.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Non-Legal Rental Unit Allowed"",
+    ""Y/N/M"": ""M"",
+    ""POLICY DETAILS"": ""Meridian does not allow non-legal rental units but the policy is implied through application process and underwriting guidelines.""
+}
+    																"
+"{
+    ""POLICY NAME"": ""Off Grid Properties"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No specific mention of off-grid properties in the provided policies.""
+}
+  "
+"{
+    ""POLICY NAME"": ""Past Foreclosures on Property"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires written disclosure of any past foreclosures on the property.""
+}
+		"
+"{
+    ""POLICY NAME"": ""Power of Sale Listings"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Power of sale listings are included in the property descriptions, indicating that the property may be subject to a forced sale or foreclosure.""
+}
+"
+"{
+    ""POLICY NAME"": ""Provincial Restrictions"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian adheres to provincial lending regulations, such as Ontario's location eligibility requirements.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""Rooming Houses"",
+    ""Y/N/M"": ""M"",
+    ""POLICY DETAILS"": ""While not explicitly stated, the presence of a rooming house may imply certain risks or require additional documentation which could be part of the underwriting process.""
+}
+"
+"{
+  ""POLICY NAME"": ""Rural Properties"",
+  ""Y/N/M"": ""Y"",
+  ""POLICY DETAILS"": ""Rural properties are defined as those located outside urban centers, requiring specific underwriting considerations.""
+}
+"
+"{
+    ""POLICY NAME"": ""Solar Panels"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian accepts solar panels as an alternative energy source for qualifying properties.""
+}
+"
+"{
+    ""POLICY NAME"": ""Student Housing"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian mandates that student housing must meet specific safety and occupancy requirements.""
+}
+                				"
+"{
+    ""POLICY NAME"": ""Tarion Required for New Home Builds"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""All new home builds must have a Tarion warranty, which is required by law in Ontario.""
+} "
+"{
+    ""POLICY NAME"": ""Well/Septic"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires a private well and septic system report, and will only process properties with a valid septic inspection report.""
+}
+"
+"{
+    ""POLICY NAME"": ""Wind Turbines"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian considers properties with wind turbines as acceptable, but the policy is not explicitly stated in their documentation.""
+}
+"
+"{
+    ""POLICY NAME"": ""Wood Frame Houses"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No explicit mention of wood frame houses in the provided policies.""
+}
+  																		"
+"{
+    ""POLICY NAME"": ""FORMS"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""Not explicitly mentioned.""
+}"
+"{
+    ""POLICY NAME"": ""Consent To Release Client Information"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers.""
+}
+ 																			"
+"{
+    ""POLICY NAME"": ""Digital Signing"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian accepts electronic signatures for certain documents, including consent forms.""
+}
+   																	"
+"{
+    ""POLICY NAME"": ""DocuSign"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Electronic signatures are accepted by Meridian.""
+}
+    			   										"
+"{
+    ""POLICY NAME"": ""Gift Letter"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""A gift letter is required for any down payment contributions, and must be submitted by the buyer with the application.""
+}
+"
+"{
+    ""POLICY NAME"": ""Payout Authorization Form"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires a signed form from the borrower to authorize payment of debts related to property disposition.""
+} "
+"{
+    ""POLICY NAME"": ""Penalty Calculator"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian provides a prepayment penalty calculator on its website to assist clients in understanding potential costs.""
+}
+ 	"
+"{
+    ""POLICY NAME"": ""Pre-Authorized Debit Agreement"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""Meridian requires a signed pre-authorized debit agreement from all applicants prior to processing their applications.""
+}
+    									       "
+"{
+    ""POLICY NAME"": ""Tax Application Form"",
+    ""Y/N/M"": ""Y"",
+    ""POLICY DETAILS"": ""The tax application form is required for property tax payments and must be completed by the applicant.""
+}
+"
+"{
+    ""POLICY NAME"": ""NICHES"",
+    ""Y/N/M"": ""N"",
+    ""POLICY DETAILS"": ""No mention of this policy in the provided text.""
+}
+  																		"
