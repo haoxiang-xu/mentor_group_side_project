@@ -2,15 +2,20 @@
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""BFS ALT-A""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""BFS Stated Income (Bank Statements)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""BFS Stated Income (Conventional)""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""BFS Stated Income (Sagen & CG Program)""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... details ..."", ""POLICY NAME"": ""Cash Back Mortgages""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""BFS Stated Income (Sagen & CG Program)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... details ..."", ""POLICY NAME"": ""Cash Back Mortgages""}"
 "{""Y/N/M"": ""N"", ""POLICY DETAILS"": ""Not found in the provided text."", ""POLICY NAME"": ""Collateral Switch/Transfer""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Construction""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Cottage/Recreational Properties""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Equity Program""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Cottage/Recreational Properties""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Equity Program""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Flex Down Payments (ie; Credit Cards)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Foreign Borrowers (Non-Residents)""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Limited Feature Mortgages""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Limited Feature Mortgages""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Medical Professionals Program""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Mortgage & HELOC Combinations""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Net Worth Program""}"
@@ -18,7 +23,8 @@
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""New to Canada (Rental)""}"
 "{""Y/N/M"": ""N"", ""POLICY DETAILS"": """", ""POLICY NAME"": ""No-fee Alt Lender""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Non-Permanent/Temporary Residents""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Open Mortgages""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Open Mortgages""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Pre-Approval Programs""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Pre-Approval Programs With No Premium""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Professionals""}"
@@ -26,8 +32,10 @@
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Purchase Plus Improvements Uninsurable""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Raw/Vacant Land Financing""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Refinance""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... (Provide details from the text)"", ""POLICY NAME"": ""Refinance on Rentals""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Rental Properties""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... (Provide details from the text)"", ""POLICY NAME"": ""Refinance on Rentals""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Rental Properties""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Reverse Mortgages""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Second Homes""}"
 "{""Y/N/M"": ""N"", ""POLICY DETAILS"": """", ""POLICY NAME"": ""Spousal/Partner Buyout""}"
@@ -42,13 +50,16 @@
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Dual Representation by Lawyer""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Legal Rebates""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Lender Collects and Pays Property Taxes""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Loan on Appraised Value""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Loan on Appraised Value""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Loan on Purchase Price""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Max Capitalization & What Lender Pays For (Switch/Transfer)""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Power of Attorney""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Power of Attorney""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Title Insurance Details""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Title Vesting Period""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Will Pay Out: Personal, CRA or HST Tax Arrears""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Will Pay Out: Personal, CRA or HST Tax Arrears""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Will Pay Out: Property Tax Arrears""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""COMMISSIONS""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Finders Fees""}"
@@ -56,7 +67,8 @@
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Trailer Fees""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Volume Bonus""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""CREDIT REQUIREMENTS""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Age of Credit Bureau (Days)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Age of Credit Bureau (Days)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Bankruptcy Purchase""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Bankruptcy Refinace""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Beacon <680 Max GDS/TDS""}"
@@ -66,47 +78,61 @@
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Double Bankruptcy""}"
 "{""Y/N/M"": ""M"", ""POLICY DETAILS"": ""While the exact policy may not be explicitly stated in the document, procedures imply that consent to release client information is required for underwriting."", ""POLICY NAME"": ""GDS/TDS Exceptions""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""GDS/TDS for 2nd Mortgage""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""GDS/TDS for LOC""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""GDS/TDS for LOC""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Minimum Beacon Requirements""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Equifax Bureaus""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Transunion Bureaus""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""QUALIFYING & FEES""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... (details)"", ""POLICY NAME"": ""Insurable/Insured Deals Only""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... (details)"", ""POLICY NAME"": ""Insurable/Insured Deals Only""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Insurers (Canada Guarantee)""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Insurers (CMHC)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Insurers (CMHC)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Insurers (Sagen)""}"
 "{""Y/N/M"": ""N"", ""POLICY DETAILS"": """", ""POLICY NAME"": ""Lending Fee""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Maintenance Fee""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Qualify at Contract Rate""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Qualify at Contract Rate""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Qualifying Rate for Conventional Deals""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Renewal Fees and Details""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""DOWN PAYMENT ""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""DOWN PAYMENT ""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Gifted Down Payment Aunt/Uncle""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Gifted From Immediately Family Member""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Gifted From Immediately Family Member (Rental)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Gifted From Immediately Family Member (Rental)""}"
 "{""Y/N/M"": ""N"", ""POLICY DETAILS"": """", ""POLICY NAME"": ""Gifted Money From Non-Family""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""...}"", ""POLICY NAME"": ""Government Grants""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... "", ""POLICY NAME"": ""How Much of the Down Payment Can Be Gifted? (100% or % From Own Funds)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""...}"", ""POLICY NAME"": ""Government Grants""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""... "", ""POLICY NAME"": ""How Much of the Down Payment Can Be Gifted? (100% or % From Own Funds)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Rent to Own Agreements""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""RRSP Withdrawals""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Vendor Take Back Mortgages""}"
 "{""Y/N/M"": ""M"", ""POLICY DETAILS"": ""While the policy isn't explicitly named, procedures imply that prior consent from all applicants must be obtained before underwriting can proceed."", ""POLICY NAME"": ""BUSINESS FOR SELF INCOME""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Add Backs (CCA and Business Use of Home)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Add Backs (CCA and Business Use of Home)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Business for Self (Self-Employed) Confirmed""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Line 150 2 Year Average for BFS""}"
 "{""Y/N/M"": ""N"", ""POLICY DETAILS"": ""Meridian's policies regarding consent to release client information are not explicitly mentioned in the provided text."", ""POLICY NAME"": ""Line 150 Gross-up Income BFS""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Minimum Time in Business (BFS)""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Self Declared Income""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Minimum Time in Business (BFS)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Self Declared Income""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Vehicle Allowance""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""INCOME""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Add Percent of Rents to Gross Income ""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Alimony/Child Support (Income)""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Assets as income ""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Alimony/Child Support (Income)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Assets as income ""}"
 "{""Y/N/M"": ""M"", ""POLICY DETAILS"": ""Although the policy mentions that personal information should be handled confidentially, there's no explicit mention of consent release."", ""POLICY NAME"": ""Assured Income for the Severely Handicapped (AISH)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Bonus / Overtime""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Canada Child Benefit (CCB)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""CCB Age Requirements""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""CCB How Much Can We Use? (% of Total Income)""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""CCB How Much Can We Use? (% of Total Income)""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Co-signer Has to be Related""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Co-signer Required to be on Title""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Co-signer to Live in the Property""}"
@@ -118,7 +144,9 @@
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Employment Insurance""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Foster Care / Care Aide income""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Guarantor Has to be Related""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Guarantors Allowed""}"
----Error--- "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Guarantors Required to be on Title""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Guarantors Allowed""}"
+---Error--- 
+"{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""..."", ""POLICY NAME"": ""Guarantors Required to be on Title""}"
 "{""Y/N/M"": ""Y"", ""POLICY DETAILS"": ""Meridian requires signed consent from all applicants prior to underwriting, but does not provide consent forms to brokers."", ""POLICY NAME"": ""Guarantors to Live in the Property""}"
 "{""Y/N/M"": ""N"", ""POLICY DETAILS"": ""Unable to extract relevant information."", ""POLICY NAME"": ""Hourly""}"
