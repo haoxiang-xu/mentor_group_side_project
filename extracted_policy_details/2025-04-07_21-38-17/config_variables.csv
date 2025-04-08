@@ -1,5 +1,0 @@
-find_top_k: 4
-policy_weight: 0.95
-extracting_model: deepseek-r1:8b
-embedding_model: {'gpu': 'intfloat/e5-base', 'cpu': 'nomic-embed-text'}
-prompt_version: v2
