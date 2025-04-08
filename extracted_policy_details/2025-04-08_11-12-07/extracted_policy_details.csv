@@ -1,0 +1,126 @@
+Y/N/M, POLICY NAME                                       , POLICY DETAILS
+N    , Investment Income / RRIF                          , 
+N    , Long Term Disability                              , 
+N    , Maximum Number of Applicants                      , 
+N    , Non-Taxable/Tips                                  , 
+M    , OAS - CPP - RPP (Pension Income)                  , Meridian requires the following documents up front for all applications: Separation Agreement (where applicable for existing and new to separate)
+N    , On-Indian Reserve (Income)                        , 
+N    , Ontario Disability Support Program Income         , 
+N    , Parental/Maternity Leave                          , No relevant text found.
+N    , Reduce Rental Expenses and Add to Gross Income    , 
+M    , Rental (Income): Non-Subject Property             , Properties on well water and septic tanks will be considered provided this is normal for the area.
+N    , Rental (Income): Owner-Occupied + Separate Unit   , 
+N    , Rental (Income): Subject Property                 , 
+M    , Rental (Income): Worksheet                        , All Buildings with a rental component must meet all applicable municipal Fire Code Regulations and Zoning By-Laws.
+N    , Rental Income at Market Rents                     , No clear textual evidence supporting 'Rental Income at Market Rents' in Policies_Meridian.docx.
+M    , Rental Pools                                      , All buildings with a rental component must meet all applicable municipal Fire Code Regulations and Zoning By-Laws.
+M    , Rental Surplus/Shortfall Calculation              , "Appraisals: Due to the difficulty of setting market values for luxury homes, 2 full appraisals from independent appraisers must be completed when: In GTA: the total mortgage aggregate is $2 MM or higher OR $1.5 MM or greater in total mortgage borrowings with any of the following: Exception to Sliding Scale or Properties with 2-4 units. In non-GTA, reduce the values to $1.5 MM and $1.0 MM respectively."
+N    , Short Term Disability                             , 
+N    , Taxable Other                                     , 
+N    , Trust (Income)                                    , 
+N    , WSIB (Income)                                     , 
+N    , EXPENSE PAYMENT CALCULATIONS                      , 
+N    , Alimony (Expense)                                 , 
+Y    , Calculate Debt Payments as Stated on Credit Bureau, "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate Student Lines of Credit Greater of 3% of the outstanding balance or the payment reported on the credit bureau Student Loans on repayment monthly contract payment as disclosed on the credit bureau Government Student Loans not on repayment future monthly contract payment as per the Government Loan Repayment Estimator Credit Bureau reports A current credit bureau (less than 30 days old) is required for all borrowers, co-borrowers and guarantors. All credit bureaus must be fully scrutinized and any discrepancies or anomalies identified, confirmed and documented by the submitting agent / broker. Credit bureau information must be consistent with the applications submitted."
+M    , Calculate Debt Payments at BoC Rate Over 25 Years , "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate"
+Y    , Calculate Debt Payments at the Total Limit        , "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate"
+M    , Calculate Debt Payments on Unsecured Loans        , "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate Student Lines of Credit Greater of 3% of the outstanding balance or the payment reported on the credit bureau Student Loans on repayment monthly contract payment as disclosed on the credit bureau Government Student Loans not on repayment future monthly contract payment as per the Government Loan Repayment Estimator"
+N    , Child Support (Expense) deducted from Income      , 
+Y    , Closing Costs Calculation                         , "In addition to down payment confirmation, 1.5% closing costs are to be confirmed for all high ratio and conventional purchases."
+N    , Condo Fee Calculation                             , 
+N    , Heat Calculation                                  , 
+M    , OSAP (3% or Payment on Credit Bureau)             , "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate Student Lines of Credit Greater of 3% of the outstanding balance or the payment reported on the credit bureau"
+N    , Property Tax Calculation                          , 
+M    , Secured Revolving Debt Payments (HELOC)           , "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate"
+M    , Shelter Costs                                     , The selected product and term length for your live deal must remain the same.
+M    , Student Loans (Expense)                           , "When considering Student Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate (Student Lines of Credit)."
+N    , Student LOC (3% or Payment on Credit Bureau)      , 
+Y    , MORTGAGE INFORMATION                              , Mortgage application must meet the applicable criteria for the rate & product selected.
+N    , 2nd Mortgage Allowed Behind You                   , 
+M    , 2nd Mortgages (Lender Arranged)                   , "For Purchase applications, we do not allow for second mortgages to be placed behind the requested Meridian first mortgage."
+N    , 2nd Position HELOCs                               , 
+N    , 3rd Mortgage Allowed Behind You                   , 
+M    , Assignments                                       , Meridian will accept transfer of First Position Standard Charge (non-collateral) mortgages which meet ALL Insurable criteria.
+N    , Assumable                                         , 
+M    , Blend and Extend                                  , The requested mortgage amount for your live deal must remain the same. A 10% maximum variance (higher or lower) is permitted.
+M    , Bridge Financing                                  , "Meridian will consider bridge financing available and offered through Broker Channel. If known at the time of submission, kindly note bridge financing is required Meridian requires notice of bridge financing requirement a minimum of 15 business day prior to the new Purchase close date Rate starts @ Meridian Prime + 2% Application fee of $250 Maximum 90 days bridge financing offered."
+N    , Change Payment Arrangement                        , 
+Y    , Credit Lines/HELOCs                               , "For unsecured Lines of Credit and Credit Cards, the payment used for debt servicing will be the greater of 3% of the outstanding balance or the payment reported on the credit bureau."
+N    , Free Home Warranty                                , 
+M    , Holding Companies                                 , Meridian does not compensate brokers for commercial / small business referrals.
+N    , Compounded Period for Variable                    , 
+N    , Insured Switch/Transfer                           , 
+Y    , Max Rate Holds (Days)                             , "For these applications, the 120 day rate commitment period begins on date of live deal submission. Collapsed / declined applications for any reason other than rate hold - does not constitute a rate hold. Rate Holds are available for live deals which meet all of the following conditions: Mortgage must be fully approved and funded within 120 days of the Rate Hold request."
+Y    , Maximum Amortization (25 years)                   , "Uninsurable purchases and refinances offer a 30 year amortization, with the exception of 2nd position mortgages behind an existing Meridian 1st mortgage which have a maximum amortization of 25 years."
+Y    , Maximum Amortization (30 years)                   , "Uninsurable purchases and refinances offer a 30 year amortization, with the exception of 2nd position mortgages behind an existing Meridian 1st mortgage which have a maximum amortization of 25 years."
+Y    , Maximum Amortization (35 years)                   , "Uninsurable purchases and refinances offer a 30 year amortization, with the exception of 2nd position mortgages behind an existing Meridian 1st mortgage which have a maximum amortization of 25 years."
+N    , Maximum Amortization (40 years)                   , 
+M    , Maximum Equity Take-Out ($)                       , "The maximum mortgage amount of $2,250,000 is capped by Meridian's overall mortgage limit."
+Y    , Maximum Loan to Value 1st Mortgage                , The total aggregate LTV must not exceed the maximum stated below. Meridian reserves the right to limit LTV regardless of these guidelines.
+M    , Maximum Loan to Value 2nd or 3rd Mortgages        , "The Loan-to-Value ratio is the sum of the mortgage loan together with all prior ranking mortgages, divided by the lesser of the appraised value or purchase price of the property."
+M    , Maximum Mortgage Amount                           , "Meridian s overall mortgage limit is capped at $2,250,000."
+Y    , Minimum Mortgage Amount                           , The requested mortgage amount for your live deal must remain the same.
+N    , Mininimum Amortization (years)                    , 
+M    , Mortgage Registration Type                        , Meridian will accept transfer of First Position Standard Charge (non-collateral) mortgages which meet ALL Insurable criteria. For full guidelines click on link: Mortgage Transfer Program
+Y    , Mortgage Reports to Credit Bureau                 , "A current credit bureau (less than 30 days old) is required for all borrowers, co-borrowers and guarantors. All credit bureaus must be fully scrutinized and any discrepancies or anomalies identified, confirmed and documented by the submitting agent / broker. Credit bureau information must be consistent with the applications submitted."
+Y    , New Home Rate Hold Guarantee                      , "Only one valid rate hold can be held, if multiple rate holds are submitted, the most recent rate hold will override any previous rate holds. For these applications, the 120 day rate commitment period begins on the date of live deal submission. Rate Holds are available for live deals which meet all of the following conditions: Mortgage must be fully approved and funded within 120 days of the Rate Hold request. Buy down cost will be deducted from final broker commission fee."
+N    , Payment Frequency Options                         , 
+Y    , Penalty Calculations for Breaking Mortgage        , The penalty calculation is based on the Floor/Posted rate for the existing mortgage and the Posted rate at the time of the payout for the years left to maturity Variable Rate Mortgages (VRM) Features of the Variable Rate Mortgage (VRM) Refinance with Meridian Credit Union by a blend and extend (blending of decrement) Port the mortgage to another property. VRM Mortgages are eligible for payout prior to maturity with a 3 months interest prepayment charge.
+N    , Portable                                          , 
+M    , Prepayment Options                                , Members are able to take advantage of our 20 / 20 prepayment privilege which allows them to increase the regular payment by up to 20% per year or to make lump sum payments (min $100) on their payment date to a max of 20% per year. The aggregate of the 2 prepayment options cannot exceed 20% per calendar year.
+N    , Private Purchases                                 , 
+Y    , Rate Buy-Down Information                         , Each 5bps buy down will cost 20bps reduction in commissions. Buy down cost will be deducted from final broker commission fee.
+M    , Rate Drop Policy                                  , Each 5bps buy down will cost 20bps reduction in commissions.
+N    , Skip a Payment                                    , 
+M    , Sliding Scale                                     , Meridian reserves the right to limit LTV regardless of these guidelines.
+Y    , Unsecured Line of Credit                          , "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate"
+M    , Value Added Products                              , "Pre-fabricated Homes, unless already fully affixed to the land and 100% of services in place. Previous Grow-Ops, whether remediated or not. Hotel Condos."
+M    , Variable-Rate to Fixed-Rate Conversion            , "Only one valid rate hold can be held, if multiple rate holds are submitted, the most recent rate hold will override any previous rate hold submissions."
+N    , VRM and/or ARMs                                   , 
+Y    , What Rate Are Penalties Calculated At             , The penalty calculation is based on the Floor/Posted rate for the existing mortgage and the Posted rate at the time of the payout for the years left to maturity.
+M    , PROPERTY                                          , Properties on well water and septic tanks will be considered provided this is normal for the area.
+M    , Agricultural/Agricultural Zoning                  , "Working farms/Hobby Farms do not qualify. Property must be within 50 km s or urban centre (Pop. 15,000)."
+M    , AirBnB/Short Term Rental Properties               , "Short-term (vacation) rental properties; Air BnB, VRBO etc"
+M    , Commercial                                        , "Non-Qualifying mortgage properties Commercial, Mixed Use Properties or Properties in a Business or Holding Co name - We do not process Commercial or Small Business applications through the Broker Channel. You can email businessreferrals@meridiancu.ca with the particulars regarding your deal and one of our Meridian partners will contact you as soon as possible."
+N    , Compostable Toilets                               , 
+M    , Farms                                             , Properties on well water and septic tanks will be considered provided this is normal for the area.
+N    , Grow Ops                                          , 
+N    , Heritage Buildings                                , 
+M    , Hobby Farms                                       , Working farms/Hobby Farms do not qualify.
+M    , Hotel Condos                                      , "No more than 10 years old No Condo conversions permitted Non-Condo Properties Smaller than 550 Sq. Ft. Must have living space, kitchen, 3-piece bathroom and separate bedroom with a door Full appraisal required High ratio insurance required regardless of LTV Loan to value ratios The Loan-to-Value ratio is the sum of the mortgage loan together with all prior ranking mortgages, divided by the lesser of the appraised value or purchase price of the property. Live/Work properties (regardless of % split between live & work). Non-conventional construction (eg dome houses). Rental pools and resort properties."
+N    , Island Properties                                 , 
+M    , Laneway Housing                                   , "Laneway/Carriage Homes must meet all of the following parameters: ... Unit to be located above or in the space designated for a detached garage. No other outbuildings Main house must be the applicants owner-occupied principal residence If the laneway home is rented, owner occupied rental income policy will apply Home Insurance policy to cover main and laneway home"
+M    , Leased Land                                       , "Properties on well water and septic tanks will be considered provided this is normal for the area. For properties situated on acreage (rural residential), appraisal report to include a maximum of 10 acres plus dwelling and no out buildings."
+N    , Lending Areas                                     , 
+Y    , Maximum Acreage                                   , "For properties situated on acreage (rural residential), appraisal report to include a maximum of 10 acres plus dwelling and no out buildings."
+M    , Maximum Number of Doors                           , "All properties must have a minimum of 100 AMP service.
+                                                           Ft. can be entertained without High Ratio insurance as long as the following is met: Minimum beacon score of 680+ Units must include a private (walled) 3 pc bathroom (min.) and in-unit designated kitchen/kitchenette area (not shared with any other units)."
+N    , Maximum Number of Properties                      , 
+N    , Minimum Population Requirement                    , 
+N    , Minimum Square Footage (Condo)                    , 
+M    , Minimum Square Footage (House)                    , Minimum 350 square feet and must not be the largest structure on property
+N    , Mixed Use (Commercial/Residential)                , 
+N    , Mobile Homes/Modular Homes                        , 
+N    , Non-Legal Rental Unit Allowed                     , 
+N    , Off Grid Properties                               , 
+N    , Past Foreclosures on Property                     , 
+N    , Power of Sale Listings                            , 
+Y    , Provincial Restrictions                           , Meridian requires that the existing home be sold firm with all conditions met 15 days prior to closing.
+Y    , Rooming Houses                                    , "Rooming Houses, Student Housing/Rentals. Bed & Breakfast. Mobile Homes, Trailer and Resort-style properties (eg mobile home/adult lifestyle communities)."
+M    , Rural Properties                                  , Properties on well water and septic tanks will be considered provided this is normal for the area.
+M    , Solar Panels                                      , "The text does not explicitly mention 'Solar Panels' or related terms, but mentions that properties include live/work, non-conventional construction, rental pools, and others. Additionally, it refers to maximum LTV and LOC limits based on property type, including high-end properties capped at $2.25M. This context suggests a policy related to property valuation for solar panel installations. However, there is no clear indication of a specific solar panel policy in the document."
+Y    , Student Housing                                   , "Student housing is defined as properties specifically designed for students, such as dormitories or other shared living spaces. Additionally, any property used as student housing must comply with local zoning laws and fire safety regulations."
+N    , Tarion Required for New Home Builds               , 
+M    , Well/Septic                                       , Properties on well water and septic tanks will be considered provided this is normal for the area.
+N    , Wind Turbines                                     , 
+N    , Wood Frame Houses                                 , 
+Y    , FORMS                                             , Meridian requires the following documents up front for all applications: Income documents as set out in the Income Confirmation page Purchase Agreement & MLS (where applicable for Purchases) Down Payment confirmation (for Purchases) Separation Agreement (where applicable for existing and new to separate) Consent Forms Meridian does not provide Consent Forms for brokers to obtain information on behalf of Members. Meridian requires signed Consent from all applicants prior to underwriting
+Y    , Consent To Release Client Information             , Meridian does not provide Consent Forms for brokers to obtain information on behalf of Members.
+Y    , Digital Signing                                   , Meridian requires the following documents up front for all applications: Income documents as set out in the Income Confirmation page Purchase Agreement & MLS (where applicable for Purchases) Down Payment confirmation (for Purchases) Separation Agreement (where applicable for existing and new to separate) Consent Forms Meridian does not provide Consent Forms for brokers to obtain information on behalf of Members. Meridian requires signed Consent from all applicants prior to underwriting
+M    , DocuSign                                          , Meridian does not provide Consent Forms for brokers to obtain information on behalf of Members. Meridian requires signed Consent from all applicants prior to underwriting.
+Y    , Gift Letter                                       , "Meridian requires a full 90 day audit trail for the Borrowers sources of down payment, For those gifted by a donor, we require a statement confirming the availability of the funds. The donor must be an immediate family member (defined as Mother, Father, Child, Brother, Sister, Grandparent, Legal Guardian, or Legal Dependent). In addition to down payment confirmation, 1.5% closing costs are to be confirmed for all high ratio and conventional purchases."
+N    , Payout Authorization Form                         , 
+M    , Penalty Calculator                                , The penalty calculation is based on the Floor/Posted rate for the existing mortgage and the Posted rate at the time of the payout for the years left to maturity Variable Rate Mortgages (VRM) Features of the Variable Rate Mortgage (VRM) Refinance with Meridian Credit Union by a blend and extend (blending of decrement) Port the mortgage to another property. VRM Mortgages are eligible for payout prior to maturity with a 3 months interest prepayment charge.
+M    , Pre-Authorized Debit Agreement                    , Members are able to take advantage of our 20 / 20 prepayment privilege which allows them to increase the prepayment by up to 20% per year or to make lump sum payments (min $100) on their payment date to a max of 20% per year. The aggregate of the 2 prepayment options cannot exceed 20% per calendar year.
+N    , Tax Application Form                              , 
+M    , NICHES                                            , Meridian does not compensate brokers for commercial / small business referrals.

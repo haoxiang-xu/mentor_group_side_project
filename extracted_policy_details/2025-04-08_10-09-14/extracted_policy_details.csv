@@ -1,0 +1,12 @@
+Y/N/M, POLICY NAME                                       , POLICY DETAILS
+Y    , Standard Conventional Insurable Program           , "Conventional Mortgages: Purchases or Refinances
+                                                           Uninsurable purchases and refinances offer a 30 year amortization, with the exception of 2nd position mortgages behind an existing Meridian 1st mortgage which have a maximum amortization of 25 years. Insurable Mortgages must qualify at the greater of 5.25% Benchmark or Contract Rate plus 2%, over 25 years"
+Y    , Collateral Switch/Transfer                        , Meridian will accept transfer of First Position Standard Charge (non-collateral) mortgages which meet ALL Insurable criteria.
+N    , Maximum Loan to Value 2nd or 3rd Mortgages        , 
+N    , Gifted Money From Non-Family                      , 
+M    , Secured Revolving Debt Payments (HELOC)           , "For Secured Lines of Credit, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate."
+Y    , Tax Application Form                              , Meridian requires the following documents up front for all applications: Income documents as set out in the Income Confirmation page Purchase Agreement & MLS (where applicable for Purchases) Down Payment confirmation (for Purchases) Separation Agreement (where applicable for existing and new to separate) Consent Forms Meridian does not provide Consent Forms for brokers to obtain information on behalf of Members. Meridian requires signed Consent from all applicants prior to underwriting
+M    , Rate Drop Policy                                  , Each 5bps buy down will cost 20bps reduction in commissions.
+N    , Assured Income for the Severely Handicapped (AISH), 
+N    , Equity Program                                    , 
+N    , Well/Septic                                       , 
