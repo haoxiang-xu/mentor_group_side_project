@@ -1,0 +1,388 @@
+__Qualifying rate policy__
+
+__High Ratio Fixed rate mortgages__
+
+- For all terms, applicants must qualify using the greater of 5\.25% Benchmark or Contract Rate \+ 2%
+
+  
+__Conventional Mortgages: Purchases or Refinances__  
+Uninsurable purchases and refinances offer a 30 year amortization, with the exception of 2nd position mortgages behind an existing Meridian 1st mortgage which have a maximum amortization of 25 years\.
+
+- Insurable Mortgages must qualify at the greater of 5\.25% Benchmark or Contract Rate plus 2%, over 25 years
+
+  
+__Flex Line__
+
+- All Flex Line arrangements must be qualified at the greater of the 5\.25% Benchmark rate or the mortgage contract rate plus 2%\.  Example:  Mortgage amount = $200K;  HELOC initial limit = $100K \-\-\- Qualifying rate for each application is the __mortgage rate plus 2% OR the 5\.25% Benchmark rate \(whichever is greater\)__
+
+__G\.D\.S and T\.D\.S ratios__
+
+Ratios are not to exceed __39%__ and __44%__ respectively \(regardless of high ratio insurer guidelines\)
+
+__Monthly payment for credit cards & lines of credit__
+
+__High Ratio & Conventional__
+
+- For__ unsecured Lines of Credit and Credit Cards__, the payment used for debt servicing will be the greater of 3% of the outstanding balance or the payment reported on the credit bureau\.
+- For__ Secured Lines of Credit__, the payment used for debt servicing will be based on the approved limit amortized over 25 years at the 5 year contract rate
+- __Student Lines of Credit__ – Greater of 3% of the outstanding balance or the payment reported on the credit bureau
+- __Student Loans on repayment__ – monthly contract payment as disclosed on the credit bureau
+- __Government Student Loans not on repayment__ – future monthly contract payment as per the [Government Loan Repayment Estimator](https://tools.canlearn.ca/cslgs-scpse/cln-cln/crp-lrc/af.nlindex-eng.do)
+
+__Credit Bureau reports__
+
+- A current credit bureau \(less than 30 days old\) is required for all borrowers, co\-borrowers and guarantors\.
+- All credit bureaus must be fully scrutinized and any discrepancies or anomalies identified, confirmed and documented by the submitting agent / broker\.
+- Credit bureau information must be consistent with the applications submitted\.
+- Where any applicant does not have a beacon score \(eg: beacon reject\), please contact [BrokerSupport@MeridianCU\.ca](mailto:BrokerSupport@MeridianCU.ca) to discuss your options
+
+__Bankruptcy/Consumer proposal__
+
+__Bankruptcy/Consumer Proposal must be discharged for 2 years\*__
+
+- Applicant’s credit bureau reports must be satisfactory – no derogatory ratings on trade lines established after discharge of bankruptcy / consumer proposal;
+- No Meridian debt was included in the bankruptcy\.
+- __All applicants must have a two\-year re\-established credit history with a minimum of two major trade lines \(credit via loan or major credit card\)__
+- Maximum 90% Loan to Value
+- Reasonable explanation for the bankruptcy must be provided with all applications
+- No previous Real Estate to be included in Bankruptcy/Consumer Proposal
+
+ 
+
+__Bridge financing__
+
+- Available and offered through Broker Channel 
+- If known at the time of submission, kindly note “bridge financing is required” 
+- Meridian requires notice of bridge financing requirement a minimum of 15 business day prior to the new Purchase close date 
+- Rate starts @ Meridian Prime \+ 2%
+- Application fee of $250
+- Maximum 90 days bridge financing offered\.
+
+__Qualifying mortgage properties__
+
+Meridian will consider the following types of property as acceptable for mortgage financing purposes under the Broker program\.
+
+- Residential properties Owner Occupied\.
+- Single family detached and semi\-detached\.
+- Single family townhouses and row houses \(freehold\)\.
+- Single Family with conforming rental component, Duplex, triplex and 4\-plex buildings\. All Buildings with a rental component must meet all applicable municipal Fire Code Regulations and Zoning By\-Laws\.
+- All properties must have a minimum of 100 AMP service\.
+- Properties on well water and septic tanks will be considered provided this is normal for the area\.
+- For properties situated on acreage \(rural residential\), appraisal report to include a maximum of 10 acres plus dwelling and no out buildings\.
+- External income must service mortgage\.
+- Working farms/Hobby Farms do not qualify\. Property must be within 50 km’s or urban centre \(Pop\. 15,000\)\. 
+
+ 
+
+- __Laneway/Carriage Homes must meet all of the following parameters: __
+- Main home and laneway home to be on same Property Identification Number \(PIN\)
+- Conforms to zoning \(all applicable permits are in place\)\. Appraiser to comment on conformity to zoning\.
+- Self\-contained with a complete functional kitchen and bathroom and year\-round heating source\.
+- Minimum 350 square feet and must not be the largest structure on property
+- Has laneway / driveway access
+- Unit to be located above or in the space designated for a detached garage\. No other outbuildings
+- Main house must be the applicants’ owner\-occupied principal residence
+- If the laneway home is rented, owner occupied rental income policy will apply
+
+Home Insurance policy to cover main and laneway home
+
+__Non\-Qualifying mortgage properties__
+
+- __Commercial, Mixed Use Properties or Properties in a Business or Holding Co name__ \- We do not process Commercial or Small Business applications through the Broker Channel\. You can email [__businessreferrals@meridiancu\.ca__](mailto:businessreferrals@meridiancu.ca) with the particulars regarding your deal and one of our Meridian partners will contact you as soon as possible\. *Meridian does not compensate brokers for commercial / small business referrals*\.
+- Co\-operative Housing \(Co\-Ops\) and Co\-Ownerships
+- Raw / Vacant Land\.
+- Leased Land / Life Leased properties\.
+- Rooming Houses, Student Housing/Rentals\.
+- Bed & Breakfast\.
+- Mobile Homes, Trailer and Resort\-style properties \(eg mobile home/adult lifestyle communities\)\.
+- Pre\-fabricated Homes, unless already fully affixed to the land and 100% of services in place\.
+- Previous Grow\-Ops, whether remediated or not\.
+- Hotel Condos\.
+- Live/Work properties \(regardless of % split between live & work\)\.
+- Non\-conventional construction \(eg dome houses\)\.
+- Rental pools and resort properties\.
+- Hobby Farms, including those with horses or other livestock, or even if the land is farmed by someone else\.
+- Converted Churches/Schoolhouses,
+- Historically designated properties\.
+- Short\-term \(vacation\) rental properties; AirBnB, VRBO etc
+
+__Minimum Square Footage__
+
+Live/work condos ineligible\.
+
+ 
+
+Outside of the GTA Condos of less than 550 Sq\. Ft\. will require high ratio insurance regardless of LTV
+
+ 
+
+Within GTA Condos of less than 550 Sq\. Ft\. can be entertained without High Ratio insurance as long as the following is met:
+
+Minimum beacon score of 680\+
+
+Units must include a private \(walled\) 3 pc bathroom \(min\.\) and in\-unit designated kitchen/kitchenette area \(not shared with any other units\)\. 
+
+No more than 10 years old 
+
+No Condo conversions permitted
+
+ 
+
+Non\-Condo Properties Smaller than 550 Sq\. Ft\.
+
+Must have living space, kitchen, 3\-piece bathroom and separate bedroom with a door
+
+Full appraisal required
+
+High ratio insurance required regardless of LTV
+
+ 
+
+ 
+
+__Loan to value ratios__
+
+The Loan\-to\-Value ratio is the sum of the mortgage loan together with all prior ranking mortgages, divided by the lesser of the appraised value or purchase price of the property\. The total aggregate LTV must not exceed the maximum stated below\.
+
+\*\* Meridian reserves the right to limit LTV regardless of these guidelines\.
+
+Type of Security
+
+Maximum LTV
+
+Mortgage \- __Owner Occupied__
+
+Up to 95% high ratio \(purchases only\)
+
+Up to 80% Conventional 
+
+Flex Line Mortgage \- __Owner Occupied__
+
+Up to 80% Conventional total borrowing
+
+Up to 70% maximum HELOC borrowing limit
+
+__Conventional financing \- Sliding LTV scale__
+
+Type of Security
+
+Beacon Score
+
+LTVR \- GTA   
+\(excluding condos\)
+
+LTVR \- all other markets  
+\(including GTA condos\)
+
+__Owner Occupied__  
+Residential up to 4 units 
+
+600\+
+
+80% of the first $2\.0MM, 50% of the remainder
+
+- Maximum Mortgage amount of $2\.25MM
+- Maximum LOC amount of $1\.25MM
+
+  
+80 % of the first $1MM, 50% of the remainder
+
+- Maximum Mortgage amount of $2MM
+- Maximum LOC amount of $1MM
+- Condo mortgages over $1MM on a case\-by\-case basis
+
+ 
+
+__High end property policy__
+
+Meridian’s overall mortgage limit is capped at $2,250,000\.
+
+__Appraisals:__ Due to the difficulty of setting market values for luxury homes, 2 full appraisals from independent appraisers must be completed when:
+
+In __GTA__: the total mortgage aggregate is $2MM or higher OR $1\.5MM or greater in total mortgage borrowings with any of the following: Exception to Sliding Scale or Properties with 2\-4 units\.
+
+In __non\-GTA__, reduce the values to $1\.5MM and $1\.0MM respectively\.
+
+Should the subject property be unique, or comparable sales are difficult to obtain for the purpose of deriving value, additional field review appraisals, desk review appraisals, and/or broker price opinions may be ordered to substantiate the property's value\.
+
+When 2 appraisals are completed, Meridian will base the lending value on the lower of the two values\.
+
+__Appraisals__
+
+Most conventional mortgage & Line of Credit requests must be supported by an appraisal\. Brokers are responsible for the cost of the appraisal report\.  Full appraisals must be ordered through Nationwide Appraisal Services \(NAS\), Solidifi, or RPS Real Property Solutions \(RPS\)\.
+
+__AVM valuations and Market Rent appraisals must be ordered through Nationwide Appraisal Services \(NAS\)__\. Ensure you select either  REAVS or MPAC as these are the __exclusive AVM types that are accepted\.__
+
+Please note that if the purchase prices falls outside of the low to high range of an AVM, a desktop or full appraisal will be required\.
+
+For properties situated on acreage \(rural residential\), appraisal report to include a maximum of 10 acres plus dwelling and no out buildings\.
+
+Meridian may require additional information regarding the subject property as deemed necessary\.
+
+- Appraisal reports not initially addressed to Meridian will require an exception approval as well as a transmittal letter\.
+
+__Full appraisal is required for the following:__
+
+- Properties purchased under power of sale
+- Property values in excess of thresholds as defined as:
+	- $1,500,000 GTA \(City of Toronto, Etobicoke, Scarborough, Vaughan, Markham, Richmond Hill\)
+	- $1,000,000 Non\-GTA
+	- Mortgage borrowing in excess of above thresholds may require 2 appraisals
+- Multi\-unit dwellings \(2\-4 units\)
+- Private purchases
+- Non arm’s length transactions
+- Laneway/Carriage Homes
+- All zonings other than residential or rural/agricultural \(rural valuations are limited to house and a maximum of 10 acres, no value given for outbuildings or excess acreage\)
+- Sales through non\-established brokerages such as Property Guys
+- All properties over 10 acres
+- No MLS listing
+
+A full appraisal may be requested at Meridian's full discretion\.
+
+__Automated Valuation Model \(AVM\)__
+
+Meridian is saving your clients money by offering a more flexible appraisal policy\. Most conventional mortgage & Line of Credit requests must be supported by an appraisal\. However, in some cases an Automated Valuation Model \(AVM\) Report may be considered in lieu of a full appraisal dependent on purchase price, beacon score and LTV \(see below\)\. Full Appraisal may be required at Underwriter’s discretion or where the purchase price does not fall within the low to high range of the AVM report\.
+
+__Property valuation requirements: For Owner Occupied principal residences, regardless of value, if LTV is less than 50% and beacon score is 600 or above, we'll move to AVM instead of full appraisal\.__
+
+ 
+
+AVM
+
+Full Appraisal
+
+Purchase  
+Owner Occupied
+
+Up to 80% LTV
+
+- 640\+ beacon scores
+
+Up to 70% LTV
+
+- 600\-639 beacon scores
+
+ 
+
+- LTVs greater than parameters based on beacon score
+- All properties/scenarios listed above
+
+Refinance  
+Owner Occupied  
+\(mortgage refinance or combination of mortgage/HELOC\)
+
+Up to 70% LTV
+
+- 640\+ beacon scores
+
+Up to 65% LTV
+
+- 600\-639 beacon scores
+
+- LTVs greater than parameters based on beacon scores
+- All properties/scenarios listed above
+
+__Property taxes__
+
+Property taxes are to be determined via the most recent property tax bill, municipal records or listing\. For new builds, one of the following methods may be used to determine property tax:
+
+- Builder's estimate \(letter given to purchaser from Builder\)
+- Average of property tax from two comparable MLS listings
+- Appraisal
+
+In absence of one of the above methods, 0\.75% of the purchase price is to be used\.
+
+__Down payments__
+
+Meridian requires a full 90 day audit trail for the Borrowers sources of down payment, For those gifted by a donor, we require a statement confirming the availability of the funds\. The donor must be an immediate family member \(defined as Mother, Father, Child, Brother, Sister, Grandparent, Legal Guardian, or Legal Dependent\)\.
+
+In addition to down payment confirmation, 1\.5% closing costs are to be confirmed for all high ratio and conventional purchases\.
+
+For Purchase applications, we do not allow for second mortgages to be placed behind the requested Meridian first mortgage\.
+
+Where the down payment will be coming from the sale of an existing property, Meridian requires that the existing home be sold firm with all conditions met 15 days prior to closing\.  
+
+__Title insurance__
+
+First Canadian Title, Stewart Title or Title Plus is mandatory on all commitments\.
+
+__Switches / Transfers / Assignments / Pre\-approvals__
+
+- Meridian will accept transfer of First Position Standard Charge \(non\-collateral\) mortgages which meet ALL Insurable criteria\. For full guidelines click on link: [Mortgage Transfer Program](https://broker.meridiancu.ca/Broker/media/MCU-Mortgage-Broker/pdfs/Mortgage-Transfer-Program.pdf)
+- If the mortgage does not meet all criteria they are treated as refinances with full appraisals and with the clients supplying the lawyer, at their cost\.
+- Meridian does not lend on purchases where the property being purchased is via an Assignment of Offer to Purchase\.
+- Meridian does not underwrite pre\-approvals at all; rate holds are for 120 days only\.
+
+__Power of Attorney__
+
+POA signatures are not acceptable\.
+
+__Rate buy down__
+
+Brokers have the option for rate buy down to a maximum of 15 bps rate reduction on any Term\. Each 5bps buy down will cost 20bps reduction in commissions\.
+
+- Interest Rate Buy downs are permitted however in all cases the borrower must qualify for the mortgage under normal Gross Debt Service \(GDS\) and Total Debt Service \(TDS\) ratio requirement at current rates for the term\.
+- Rate buy down request must accompany the application to the underwriting unit\.
+- Buy down cost will be deducted from final broker commission fee\.
+
+__Rate Holds__
+
+Meridian’s rate commitment period is 120 days for both Purchases \(re\-sale & new\-builds\) and Refinances\. Brokers will submit a Rate Hold for a specific mortgage product and term\.
+
+Quick overview and tips for submitting a Rate Hold request:
+
+- We do not underwrite pre\-approvals or review rate hold requests for eligibility\.
+- __Ensure that the Deal Purpose \(Purchase/Refi/ETO/Transfer etc\), Amortization, Term, Mortgage Amount and approximate LTV are entered accurately__\.
+- When submitting a rate hold request, you must select "Preapproval" for application type\.  Confirm in the note section, the product, term and rate you are holding\. You will receive a decline notification \- this is normal\.
+- An automated response will also be sent by email \(no\-reply@meridiancu\.ca\) confirming your rate hold\. 
+- No credit bureau is required to submit a rate hold\.
+- No premiums are added to rates\.
+- When you submit the live deal, re\-submit ensure you select __"Approval"__ as your application type and update the application information for the product and  borrowers\.
+- Only one valid rate hold can be held, if multiple rate holds are submitted, the most recent rate hold will override any previous rate hold submissions\.
+- If any of the below criteria are not met, the application will receive prevailing rates as of the live deal submission date\.
+- Rate holds are not available for Purchase Plus Improvements deals\. For these applications, the 120 day rate commitment period begins on date of live deal submission\.
+- Collapsed / declined applications for any reason other than rate hold \- does not constitute a rate hold\.
+
+Rate Holds are available for live deals which meet all of the following conditions:
+
+- Mortgage must be fully approved and funded within 120 days of the Rate Hold request\.
+- The requested mortgage amount for your live deal must remain the same\. A 10% maximum variance \(higher or lower\) is permitted\.
+- __The selected product and term length for your live deal must remain the same__\.
+- Mortgage application must meet the applicable criteria for the rate & product selected\.
+
+__Prepayment privileges__
+
+Members are able to take advantage of our 20 / 20 prepayment privilege which allows them to increase the regular payment by up to 20% per year or to make lump sum payments \(min $100\) on their payment date to a max of 20% per year\. The aggregate of the 2 prepayment options cannot exceed 20% per calendar year\.
+
+*The penalty calculation is based on the Floor/Posted rate for the existing mortgage and the Posted rate at the time of the payout for the years left to maturity*
+
+__Variable Rate Mortgages \(VRM\)__
+
+Features of the Variable Rate Mortgage \(VRM\)
+
+- Refinance with Meridian Credit Union by a blend and extend \(blending of decrement\)
+- Port the mortgage to another property\.
+- *VRM Mortgages are eligible for payout prior to maturity with a 3 months’ interest prepayment charge\.*
+
+__Documentation requirements__
+
+Application documents are to be uploaded to the Document Portal\.
+
+Meridian requires the following documents __up front__* *for all applications:
+
+- Income documents as set out in the [Income Confirmation](https://broker.meridiancu.ca/cmsctx/pm/5174d718-1c5f-4ff5-bbbe-1a8dad8d1af6/culture/en-US/wg/5ec7e313-3969-4fa1-9b97-a05d27e22634/readonly/0/ea/1/h/d8ef49f769466d7de303b6870657401152f66226effb0163be8c91efeb5772eb/-/mortgage/broker-services/broker-income?uh=f12fb0c4e93764f1abdc37238318d192df29623485a9da6d3be9367cf5867e41) page
+- Purchase Agreement & MLS \(where applicable for Purchases\)
+- Down Payment confirmation \(for Purchases\)
+- Separation Agreement \(where applicable for existing and new to separate\)
+
+__Consent Forms__
+
+Meridian does not provide Consent Forms for brokers to obtain information on behalf of Members\.
+
+Meridian requires signed Consent from all applicants prior to underwriting
+
+__Portability / Assumability__
+
+Meridian’s mortgages are portable to another residential property in Ontario  
+Meridian’s mortgages are assumable with qualification
+
